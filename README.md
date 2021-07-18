@@ -1,5 +1,5 @@
 # raspvoice
-엔지니어링산업설계대전/ raspberrypi button + pyaudio voice + random port + port scanning
+ ICT 융합 프로젝트 공모전/ raspberrypi button + pyaudio voice + random port + port scanning
 
 # how to use
 @@@.@@@.@@@.@@@에 본인의 ip를 집어넣습니다.
